@@ -1,0 +1,6 @@
+In this repository I did Exercise - Web server EC2 S3. 
+Class : SEIS615 - Dev Ops & Cloud Infrastructure.
+
+The instruction on the PDF file :)
+
+
