@@ -1,3 +1,15 @@
+
+In order to push files from your local machine or from Ec2 to GitHub:
+
+use this:
+
+git remote add origin https://github.com/khalidalmu/Web-Server-EC2-S3.git
+git add .
+git commit -m "Whatever you want"
+git push origin master
+
+
+
 In this repository I did Exercise - Web server EC2 S3. 
 Class : SEIS615 - Dev Ops & Cloud Infrastructure.
 
